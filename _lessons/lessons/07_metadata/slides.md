@@ -807,7 +807,7 @@ Finally, spatial reference information is essential for integrating your data wi
 
 ???
 
-  // Samir Ouradi 
+    samir ouradi
 ---
 
 # Tips for Writing Quality Metadata
