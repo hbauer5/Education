@@ -19,7 +19,7 @@ layout: slides
 
 ---
 
-# Lesson Topics
+### Lesson Topics
 
 - Explanation of metadata
 - Illustrate the value and utility of metadata to data users, data providers, and organizations
